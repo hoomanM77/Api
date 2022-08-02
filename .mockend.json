@@ -1,6 +1,6 @@
 {
   "Post": {
-    "title": {"Afghanistan" },
+    "country": "Afghanistan" ,
     "comments": {
       "hasMany": "Comment"
     }
