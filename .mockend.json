@@ -1,7 +1,7 @@
 {
   "Post": {
     "country": { "string": {} },
-    "country": {
+    "comments": {
       "hasMany": "Comment"
     }
   },
