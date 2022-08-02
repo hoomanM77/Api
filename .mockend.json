@@ -1,6 +1,9 @@
 {
   "Post": {
-    "country": "Afghanistan",
+    "title": {"Afghanistan" },
+    "comments": {
+      "hasMany": "Comment"
+    }
   },
   "Comment": {
     "body": { "string": {} },
